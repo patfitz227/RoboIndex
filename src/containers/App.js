@@ -3,6 +3,7 @@ import CardList from '../components/CardList';
 import SearchBox from '../components/SearchBox';
 import {robots} from '../robots';
 import Scroll from '../components/Scroll';
+import ErrorBoundry from '../components/errorboundry'
 import './App.css';
 
 
